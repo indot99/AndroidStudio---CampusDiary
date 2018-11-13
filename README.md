@@ -7,7 +7,7 @@
 
 사용 언어 : java, sqlite
 
-사용 ide : android studio
+사용 IDE : android studio
 
 ---
 
