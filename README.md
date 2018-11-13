@@ -18,3 +18,4 @@
 ![](./resource/2.png)
 ![](./resource/3.png)
 ![](./resource/4.png)
+(구글 광고id는 테스트용id입니당^^)
